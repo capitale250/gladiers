@@ -64,36 +64,36 @@
       "smallImage": "img/portfolio/01-small.jpg"
     }
   ],
- "Services": [
+  "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Training and Workshops",
+      "text": "Offer training sessions and workshops to educate and prepare youth on sustainable farming techniques, modern agricultural practices, and the use of innovative tools and technologies."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Job Application",
+      "text": "Our applications will require every applicant to provide all levels of skill they possess to classify them in different categories and provide them with skills they need to start."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Market Access and Development",
+      "text": "Facilitate connections between farmers and markets, helping them to sell their products locally and internationally."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Microfinance and Support",
+      "text": "Provide microfinance services and support to small-scale farmers and rural entrepreneurs to help them start or expand their businesses."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Processing and Packaging Services",
+      "text": "Establish facilities for processing and packaging agricultural products, enabling farmers to add value to their produce and access larger markets."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Entrepreneurship Programs",
+      "text": "Develop programs that encourage and support youth and rural residents in starting their own businesses."
     }
   ],
   "Testimonials": [
