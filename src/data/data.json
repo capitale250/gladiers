@@ -64,42 +64,42 @@
       "smallImage": "img/portfolio/01-small.jpg"
     }
   ],
-  "Services": [
+ "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Training and Workshops",
-      "text": "Offer training sessions and workshops to educate and prepare youth on sustainable farming techniques, modern agricultural practices, and the use of innovative tools and technologies."
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Job Application",
-      "text": "Our applications will require every applicant to provide all levels of skill they possess to classify them in different categories and provide them with skills they need to start."
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Market Access and Development",
-      "text": "Facilitate connections between farmers and markets, helping them to sell their products locally and internationally."
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "icon": "fa fa-language",
-      "name": "Microfinance and Support",
-      "text": "Provide microfinance services and support to small-scale farmers and rural entrepreneurs to help them start or expand their businesses."
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Processing and Packaging Services",
-      "text": "Establish facilities for processing and packaging agricultural products, enabling farmers to add value to their produce and access larger markets."
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Entrepreneurship Programs",
-      "text": "Develop programs that encourage and support youth and rural residents in starting their own businesses."
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     }
   ],
   "Testimonials": [
     {
       "img": "",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "",
       "name": "\"Empower youth by engaging them in sustainable coffee farming and preparation using advanced agricultural technologies. By providing the necessary resources, training, and support, we enable young people to cultivate, process, and market high-quality coffee. Leveraging technologies such as precision agriculture, IoT sensors, and data analytics, we ensure optimal growing conditions, monitor crop health, and maximize yields. This initiative not only creates meaningful employment opportunities for the youth but also contributes to the economic growth and sustainability of rural communities in Rwanda. Through this approach, we strive to enhance agricultural productivity, promote value-added industries, and ensure environmental sustainability while fostering social equity and community development.By integrating these technologies, we are able to reduce waste, improve efficiency, and make data-driven decisions that benefit both the farmers and the environment. Our vision is to transform Rwanda’s agricultural sector into a dynamic engine for job creation, while adhering to the highest standards of environmental sustainability and social responsibility.\""
     }
   ],
