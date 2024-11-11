@@ -1,21 +1,20 @@
 {
   "Header": {
     "title": "Mission statement",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "paragraph": "We aim to drive sustainable economic growth in Rwanda by fostering innovative solutions and bridging the gap between agriculture and job creation. We strive to enhance agricultural productivity, empower rural communities, and promote value-added industries that create meaningful employment opportunities. Through research, collaboration, and advocacy, we are committed to transforming Rwanda's agricultural sector into a dynamic engine for job creation while ensuring environmental sustainability and social equity"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "We are students enrolling at African Leadership University. We are ambitious to achieve our mission. We are located in Rwanda.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Job Creation",
+      "Empowerment",
+      "Entrepreneurship",
+      "Skill Development"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Economic Growth",
+      "Environmental Sustainability",
+      "Social Equity"
     ]
   },
   "Gallery": [
@@ -68,65 +67,40 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Training and Workshops",
+      "text": "Offer training sessions and workshops to educate and prepare youth on sustainable farming techniques, modern agricultural practices, and the use of innovative tools and technologies."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Job Application",
+      "text": "Our applications will require every applicant to provide all levels of skill they possess to classify them in different categories and provide them with skills they need to start."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Market Access and Development",
+      "text": "Facilitate connections between farmers and markets, helping them to sell their products locally and internationally."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Microfinance and Support",
+      "text": "Provide microfinance services and support to small-scale farmers and rural entrepreneurs to help them start or expand their businesses."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Processing and Packaging Services",
+      "text": "Establish facilities for processing and packaging agricultural products, enabling farmers to add value to their produce and access larger markets."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Entrepreneurship Programs",
+      "text": "Develop programs that encourage and support youth and rural residents in starting their own businesses."
     }
   ],
   "Testimonials": [
     {
-      "img": "img/team/05.jpg",
+      "img": "",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-     "img": "img/team/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/team/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/team/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/team/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/team/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "name": "\"Empower youth by engaging them in sustainable coffee farming and preparation using advanced agricultural technologies. By providing the necessary resources, training, and support, we enable young people to cultivate, process, and market high-quality coffee. Leveraging technologies such as precision agriculture, IoT sensors, and data analytics, we ensure optimal growing conditions, monitor crop health, and maximize yields. This initiative not only creates meaningful employment opportunities for the youth but also contributes to the economic growth and sustainability of rural communities in Rwanda. Through this approach, we strive to enhance agricultural productivity, promote value-added industries, and ensure environmental sustainability while fostering social equity and community development.By integrating these technologies, we are able to reduce waste, improve efficiency, and make data-driven decisions that benefit both the farmers and the environment. Our vision is to transform Rwanda’s agricultural sector into a dynamic engine for job creation, while adhering to the highest standards of environmental sustainability and social responsibility.\""
     }
   ],
   "Team": [
@@ -167,23 +141,8 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "",
+      "text": "Rwanda's rapidly growing youth population presents a significant challenge in job creation as the economy struggles to provide sufficient formal employment opportunities. With over 70% of Rwandans under 30, the demand for jobs far exceeds the supply, leading to widespread youth unemployment and underemployment. The skills mismatch between the education system and the requirements of high-potential sectors such as I.C.T., agribusiness, and manufacturing further exacerbates this issue. Additionally, the slow growth of the private sector and the prevalence of informal employment limit opportunities for sustainable, high-quality jobs. Addressing this challenge requires innovative strategies to create job opportunities that harness the potential of Rwanda's youth while aligning education and industry needs to drive economic growth"
     }
   ]
 }
