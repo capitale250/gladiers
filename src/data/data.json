@@ -66,12 +66,12 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-graduation-cap",
       "name": "Training and Workshops",
       "text": "Offer training sessions and workshops to educate and prepare youth on sustainable farming techniques, modern agricultural practices, and the use of innovative tools and technologies."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-briefcase",
       "name": "Job Application",
       "text": "Our applications will require every applicant to provide all levels of skill they possess to classify them in different categories and provide them with skills they need to start."
     },
@@ -81,7 +81,7 @@
       "text": "Facilitate connections between farmers and markets, helping them to sell their products locally and internationally."
     },
     {
-      "icon": "fa fa-language",
+      "icon": "fa  fa-money",
       "name": "Microfinance and Support",
       "text": "Provide microfinance services and support to small-scale farmers and rural entrepreneurs to help them start or expand their businesses."
     },
@@ -125,7 +125,7 @@
       "job": ""
     },
     {
-      "img": "img/team/05.jpg",
+      "img": "img/team/02.jpg",
       "name": "jonathan",
       "job": ""
     }
